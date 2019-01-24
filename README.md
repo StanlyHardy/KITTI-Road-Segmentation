@@ -63,7 +63,7 @@ python3 train.py  --conf=./config.json
 
 ## Contribute
 
-I would love for you to contribute to **KITT-Road Segmentation**, check the ``LICENSE`` file for more info.
+Don't feel shy to drop a star, if you find this repo useful.I would love for you to contribute to **KITT-Road Segmentation**, check the ``LICENSE`` file for more info.
 
 ## Meta
 
