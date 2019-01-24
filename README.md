@@ -2,7 +2,7 @@
 > Lane Segmentation using several architectures.
 
 
-[![Python Version][python-image]][python-url]
+[![Python Version][python-image]
 [![Build Status][travis-image]][travis-url]
 [![License][license-image]][license-url]
 
