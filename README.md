@@ -2,11 +2,10 @@
 > Lane Segmentation using several architectures.
 
 
-[![Objectivec Version][objectivec-image]][objectivec-url]
+[![Python Version][objectivec-image]][objectivec-url]
 [![Build Status][travis-image]][travis-url]
 [![License][license-image]][license-url]
-[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/EZSwiftExtensions.svg)](https://img.shields.io/cocoapods/v/LFAlertController.svg)  
-[![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
+
 
 It contains the code for both training and segmentation of lane lines using Deep Learning. Currently the supported architectures are ENET, UNET, Modified VGG.
 
@@ -74,11 +73,10 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 
 [https://github.com/StanlyHardy/KITTI-Road-Segmentation](https://github.com/StanlyHardy/)
 
-[objectivec-image]:https://img.shields.io/badge/Language-Objective%20C-blue.svg?style=flat
-[objectivec-url]: https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+[python-image]:https://img.shields.io/pypi/pyversions/:packageName.svg
+[python-url]: https://docs.python.org/3/
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [license-image]: https://img.shields.io/badge/License-MIT-blue.svg
 [license-url]: LICENSE
-[codebeat-image]: https://codebeat.co/badges/c19b47ea-2f9d-45df-8458-b2d952fe9dad
-[codebeat-url]: https://codebeat.co/projects/github-com-vsouza-awesomeios-com
+
