@@ -2,7 +2,7 @@
 > Lane Segmentation using several architectures.
 
 
-[![Python Version][python-image]
+[![Python Version][travis-image]][travis-url]
 [![Build Status][travis-image]][travis-url]
 [![License][license-image]][license-url]
 
@@ -73,7 +73,7 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 
 [https://github.com/StanlyHardy/KITTI-Road-Segmentation](https://github.com/StanlyHardy/)
 
-[python-image]:https://img.shields.io/pypi/pyversions/:packageName.svg
+[python-image]:https://img.shields.io/badge/Made%20with-Python-1f425f.svg
 [python-url]: https://docs.python.org/3/
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
