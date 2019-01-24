@@ -38,7 +38,7 @@ You can use [PIP](https://pypi.org/project/pip/) to install the module `imgaug` 
 pip install imgaug
 ```
 
-#### tensorflow
+#### Tensorflow
 You can use [PIP](https://pypi.org/project/pip/) to install `tensorflow` with the following command line or please go through their official installation [guideline](https://www.tensorflow.org/install/pip)
 ```
 pip install tensorflow
