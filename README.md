@@ -39,15 +39,14 @@ pip install imgaug
 ```
 
 #### tensorflow
-You can use [PIP](https://pypi.org/project/pip/) to install `tensorflow` with the following command line or please go through their official installation guideline[https://www.tensorflow.org/install/pip]:
-
+You can use [PIP](https://pypi.org/project/pip/) to install `tensorflow` with the following command line or please go through their official installation [guideline](https://www.tensorflow.org/install/pip)
 ```
 pip install tensorflow
 ```
 
 
 #### Keras
-You can use [PIP](https://pypi.org/project/pip/) to install `keras` with the following command line or please go through their official installation guideline[https://keras.io/#installation]:
+You can use [PIP](https://pypi.org/project/pip/) to install `keras` with the following command line or please go through their official installation [guideline](https://keras.io/#installation)
 
 ```
 pip install keras
