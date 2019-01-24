@@ -1,0 +1,19 @@
+{
+    "model" : {
+        "backend":              "UNET",
+        "im_width":             576,
+        "im_height":            160,
+        "classes":              2
+    },
+
+    "train": {
+        "data_directory":       "./data/",
+        "batch_size":           2,
+        "learning_rate":        1e-5,
+        "nb_epochs":            120,
+        "debug":                true,
+        "save_model_name" :     "UNET.h5",
+        "logs_dir" :            "logs",
+        "train_times":          8
+    }
+}
