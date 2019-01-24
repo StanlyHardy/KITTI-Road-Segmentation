@@ -3,8 +3,6 @@
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![Build Status][travis-image]][travis-url]
-[![License][license-image]][license-url]
 
 
 It contains the code for both training and segmentation of lane lines using Deep Learning. Currently the supported architectures are ENET, UNET, Modified VGG.
@@ -72,11 +70,4 @@ Stanly Moses – [@Linkedin](https://in.linkedin.com/in/stanlymoses) – stanlyh
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
 [https://github.com/StanlyHardy/KITTI-Road-Segmentation](https://github.com/StanlyHardy/)
-
-[python-image]:https://img.shields.io/badge/Made%20with-Python-1f425f.svg
-[python-url]: https://docs.python.org/3/
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[license-image]: https://img.shields.io/badge/License-MIT-blue.svg
-[license-url]: LICENSE
 
